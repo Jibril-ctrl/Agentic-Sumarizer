@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+readability-lxml
+ipywidgets
+reportlab
+langchain>=0.2
+jupyter
+pytest
